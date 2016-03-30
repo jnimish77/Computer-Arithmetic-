@@ -1,5 +1,4 @@
-# For an n-bit Carry Completion Adder, write a C program to determine
-the relationship between the average delay and operand size (n).
+# For an n-bit Carry Completion Adder, write a C program to determine the relationship between the average delay and operand size (n).
 
 Guidelines:
  Operand size (n) varies from 1 to 48 with a skip of 1.
