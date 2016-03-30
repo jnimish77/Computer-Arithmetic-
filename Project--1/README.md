@@ -22,6 +22,9 @@ newly generated from other components during the current \cycle".
 and c1i
 at the end of each cycle
 using the following 24-bit input patterns
-101001001100101101100101
-010101111000010010001011
+
+    101001001100101101100101
+
+    010101111000010010001011
+
 - your plot with your conclusions and reasoning.
